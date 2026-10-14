@@ -19,7 +19,7 @@ class Danial:
 ```
 
 ### 🧟 Currently bringing to life
-**FrankenAgent** — stitching together intelligence, tools, memory, and automation. The monster is still learning to walk.
+**ReaFuse** — stitching together intelligence, tools, memory, and automation. The monster is still learning to walk.
 
 ### ⚡ Previously summoned
 
